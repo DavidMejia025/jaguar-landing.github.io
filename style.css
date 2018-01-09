@@ -29,7 +29,7 @@ h1,h5{
 }
 
 a{
-	text-decoration-style: none;
+	text-decoration: none;
 	background-color: #DB3030;
 	color:white;
 	border: #DB3030;
